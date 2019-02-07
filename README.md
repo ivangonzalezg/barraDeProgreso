@@ -2,7 +2,7 @@
 
 Barra de progreso para Bash
 
-##Instalación
+## Instalación
 
 Desde terminal escribe:
 
@@ -12,7 +12,7 @@ Desde terminal escribe:
 
 Luego escribe tu contraseña de root.
 
-##Uso
+## Uso
 
 Desde terminal escribe:
 
@@ -28,7 +28,7 @@ Para configurar dichos parámetros solo se puede de la siguiente manera
 progressbar [Duración] "[Mensaje]"
 ```
 
-###Ejemplo
+### Ejemplo
 
 ```bash
 progressbar 3 "Listo, proceso terminado."
