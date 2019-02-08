@@ -20,6 +20,8 @@ Desde terminal escribe:
 progressbar
 ```
 
+![ejecucion](https://raw.githubusercontent.com/ivangonzalezg/barraDeProgreso/master/progressbar_default.gif)
+
 Tiempo de duración y mensaje por defecto 1s "Finalizado."
 
 Para configurar dichos parámetros solo se puede de la siguiente manera
@@ -33,3 +35,5 @@ progressbar [Duración] "[Mensaje]"
 ```bash
 progressbar 3 "Listo, proceso terminado."
 ```
+
+![ejecucion](https://raw.githubusercontent.com/ivangonzalezg/barraDeProgreso/master/progressbar_custom.gif)
